@@ -3,5 +3,5 @@ A dedicated repository to host my latest resume, highlighting my education, skil
 
 NOTE: The links are sometimes not clickable so I recommend you to download the resume.
 
-- [Download Resume (PDF)](AmanSah.pdf)  
-- [Download Resume (DOCX)](AmanSah.docx)  
+- [Download Resume (PDF)](RESUME.pdf)  
+- [Download Resume (DOCX)](RESUME.docx)  
